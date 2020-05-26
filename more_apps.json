@@ -1,5 +1,4 @@
 
- 
 {
   "more_apps": [
 
@@ -16,17 +15,14 @@
     "icon": "https://lh3.googleusercontent.com/PdejlowUAuqKBRQw1NJbzBK-1-FL3r9f9HzEialmVkwMJ7c-8EftL5soRCeD4hapb30=s180",
     "package": "com.serviceguide.totallynew.reliablefree.delivery"
    }
-   
-   
+ 
    {
     "name": "NERF Epic Pranks",
     "number_download": "500.000 download",
     "icon": "https://lh3.googleusercontent.com/sVp5O8SSq2v4iae8lDBLbXOtLYVuIynCyZ3M_wIaIHJ5x7M_MP-LR8HCUPLzhyy_E5c=s180",
     "package": "com.guidepranks.gamenerf.newepic.tipss"
    }
-   
-   
-  
+
   ]
 
 }
