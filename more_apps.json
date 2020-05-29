@@ -16,12 +16,24 @@
     },
 
     {
-      "name": "NERF Epic Pranks",
-      "number_download": "500.000 download",
+      "name": "Urban City Stories",
+      "number_download": "5.000.000 download",
+      "icon": "https://lh3.googleusercontent.com/uPxGcBhWQMAbK6yrAa32XetQVQnBwt1R_rsiJOS8cqx7HX6BKRjKHb6_eO7X9CNOsYU=s180",
+      "package": "com.urbanguide.citygame.storypr.tips"
+    },
+    {
+      "name": "NERF epic pranks 2",
+      "number_download": "5.000.000 download",
       "icon": "https://lh3.googleusercontent.com/sVp5O8SSq2v4iae8lDBLbXOtLYVuIynCyZ3M_wIaIHJ5x7M_MP-LR8HCUPLzhyy_E5c=s180",
       "package": "com.guidepranks.gamenerf.newepic.tipss"
-   }
-  ]
+    },
+   
+    { 
+      "name": "Repair Master 3D ",
+      "number_download": "1.000.000 download",
+      "icon": "https://lh3.googleusercontent.com/zsYb-MwVphhsupTWs61Id9YuwLmSN5pXjhBayEa-CB5lpnURXQMzqQ8Mo43kVO0pAygu=s180",
+      "package": "com.guiderepair.mastertips.dtricks.free"
+    },
  
    
 
